@@ -1,6 +1,7 @@
 # ☁️ CloudVault
 
 ### Secure file storage and management for teams.
+**Store. Share. Organize.**
 
 CloudVault is a **database-driven file storage and management system** built for students, faculty, and project teams who work with shared files.
 
@@ -151,11 +152,3 @@ At the same time, the project demonstrates how **relational database concepts ca
 *Amrita School of Computing, Amritapuri*
 
 ---
-
-<p align="center">
-
-### ☁️ CloudVault
-
-**Store. Share. Organize.**
-
-</p>
